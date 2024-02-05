@@ -61,3 +61,10 @@ nav {
     width: 320px;
 }
 
+.homeText {
+    font-family: "Roboto";
+    font-weight: 400;
+    color: #323235;
+    font-size: 18px;
+}
+
