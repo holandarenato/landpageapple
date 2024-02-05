@@ -83,3 +83,29 @@ nav {
     color: #323235;
 }
 
+.homeBuy {
+    background-color: #0053a7;
+    padding: 1rem 2rem;
+    color: #fff;
+    border-radius: 8px;
+}
+
+.homeLearn {
+    border: 2.5px solid #0053a7;
+    padding: 0.9rem 2rem;
+    border-radius: 8px;
+    margin-left: 1.8rem;
+    color: #0053a7;
+    font-weight: 500;
+}
+
+.homeLearn:hover{
+    color: #fff;
+    background-color: #0053a7;
+}
+
+.homeBuy:hover{
+    background-color: #024385;    
+}
+
+
