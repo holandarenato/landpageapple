@@ -14,7 +14,7 @@ header{
     background-color: #323235;
 }
 
-a{
+a {
     color: #a4a5a6;
     font-weight: 500;
     transition: 0.3s;
@@ -46,5 +46,18 @@ nav {
 
 .navItem a:hover {
     color: white;
+}
+
+.home {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 3rem;
+    justify-content: space-between;
+    margin-left: 10.5rem;
+    margin-right: 12.5rem;
+}
+
+.homeImg img {
+    width: 320px;
 }
 
